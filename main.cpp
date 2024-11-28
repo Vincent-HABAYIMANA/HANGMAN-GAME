@@ -84,12 +84,12 @@ wordList.push_back("spaceship");
             }
 
             if (guessedWord == word) {
-                cout << "Congratulations! You are winner of this game now!";
+                cout << "Congratulations! You are winner of this game now🙏🙏🙏🙏🙏🙏🙏!";
                 break;
             }
         }
         if (guessesLeft == 0) {
-            cout << "\nGame over! You lost!! The word was \"" << word << "\".\n";
+            cout << "\nGame over! You lost😥😥😥😥😥😥😥😥😥😥😥!! The word was \"" << word << "\".\n";
         }
 
         cout << "\nWould you like to play again? (y/n): ";
